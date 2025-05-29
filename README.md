@@ -32,7 +32,7 @@ An addon for **BedWars1058** that allows players to vote for their preferred PvP
 - Minecraft **1.20.4** (Paper)
 - Java **17+**
 - [BedWars1058](https://www.spigotmc.org/resources/bedwars1058.75105/)
-- (Optional) [OldCombatMechanics](https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/)
+- [OldCombatMechanics](https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/)
 
 ### 📄 BedWars1058 Configuration
 
